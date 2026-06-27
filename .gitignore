@@ -1,0 +1,10 @@
+.env
+config.json
+memory.json
+history.json
+notes/
+screenshots/
+node_modules/
+dist/
+__pycache__/
+.DS_Store
